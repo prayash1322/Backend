@@ -133,3 +133,8 @@ It adds one test book to your database, tries everything on it, and deletes it a
 ## Built with
 
 Node.js, Express, MongoDB with Mongoose, express-validator, Multer and Nodemon.
+
+## 🎥 Explanation Video
+
+[▶ Watch the explanation video](https://drive.google.com/file/d/1A5NGrQ_7vmsQZyeHp0kYvvIhv0ZDFvsZ/view?usp=sharing) 
+---
